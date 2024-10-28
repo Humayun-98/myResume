@@ -1,0 +1,45 @@
+body {
+  /* font-family: "Times New Roman", Times, serif; */
+  background-color: #e0e3da;
+  margin: 0;
+  padding: 0;
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.hero {
+  text-align: center;
+  background-color: #a593e0;
+  color: #fff;
+  padding: 20px;
+}
+.hero-title {
+  font-size: 36px;
+  font-weight: bold;
+}
+.hero-content {
+  margin-top: 10px;
+  font-size: 18px;
+}
+.section {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #a593e0;
+}
+.section-content {
+  margin-top: 10px;
+}
+ul.skills {
+  list-style: none;
+  padding: 0;
+}
+ul.skills li {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
